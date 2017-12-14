@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* Estilos del header */
+header{
+	background-color: #FA5882;
+}
+a{
+	color: white;
+}
+/* Estilos de los botones de agregar y buscar */
+.btn{
+	background-color: #58FAAC;
+	padding: 0.30em 2em;
+}
+.btn, p{
+	margin-top: 1em;
+	color: white;
+}
+/* Estilo del título del modal */
+h3{
+	color: black;
+}
+/* Estilo del ícono usuario */
+.fa-user-circle{
+	margin-left: 5em;
+}
+/* Estilo del ícono teléfono */
+.fa-phone{
+	margin-left: 2em;
+}
+/* Estilo de los input de nombre y teléfono */
+input{
+	margin-left: 2em;
+}
+
+/* Estilo del botón agregar */
+#btn-add{
+	margin-left: 5em;
+	padding: 0.40em 2em;
+	color: black;
+}
+.list-contact{
+  margin-left: 5em;
+}
+.name-contact{
+  font-size: 2em;
+}
+.fa-trash{
+  position: relative;
+  left: 20em;
+  bottom: 5em;
+  padding: 1em;
+  background: #58FAAC;
+  color: white;
+}
